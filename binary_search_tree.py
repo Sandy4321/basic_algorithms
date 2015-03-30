@@ -70,8 +70,6 @@ class Node(object):
         return s
 
 
-
-
 class BST(object):
     """
     Class to represent a binary search tree
